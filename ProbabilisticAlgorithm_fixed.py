@@ -100,9 +100,9 @@ def Probabilistic(actualdemandfile, forecastdemandfile):
         current_date = datetime(year, month, day)
 
         # seasonal check
-        if month < 6 or month > 9:
+        # if month < 6 or month > 9:
             # print(f"Day {i} (date: {current_forecast_date}) is outside peak season (May-Sep), skipping...")
-            continue
+            # continue
 
         if current_date.weekday() >= 5:  # 5=Saturday, 6=Sunday
             # print(f"Day {i} (date: {current_forecast_date}) is a weekend, skipping...")
@@ -159,4 +159,4 @@ def Probabilistic(actualdemandfile, forecastdemandfile):
 
 
 if __name__ == "__main__":
-    Probabilistic('ActualDemand_new.csv', 'ForecastPeak_TESLA_new.csv')
+    Probabilistic('ActualDemand_new.csv', 'ForecastPeak_ECA_new.csv')

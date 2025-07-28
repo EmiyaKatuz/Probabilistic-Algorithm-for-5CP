@@ -1,0 +1,19 @@
+Factor=4
+Model,Peak‑Error Share (>95% load) – proportional,Peak‑Error Share – threshold
+ECA,17.3,39.1
+RTO,9.9,25.3
+TESLA,9.9,25.3
+Model,WEI_proportional,WEI_threshold
+ECA,745.14,864.68
+RTO,378.72,391.99
+TESLA,378.72,391.99
+
+Factor=10
+Model,Peak‑Error Share (>95% load) – proportional,Peak‑Error Share – threshold
+ECA,17.3,61.6
+RTO,9.9,45.8
+TESLA,9.9,45.8
+Model,WEI_proportional,WEI_threshold
+ECA,745.14,1089.47
+RTO,378.72,429.32
+TESLA,378.72,429.32
