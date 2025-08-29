@@ -1,7 +1,7 @@
 TP,FP,TN,FN,forecast_src,kind,support,pred_pos,actual_pos
-25,10,149,28,ECA,4cp_daily,212,35,53
-11,1,200,24,ECA,4cp_hourly,236,12,35
-47,8,151,6,RTO,4cp_daily,212,55,53
-31,7,194,4,RTO,4cp_hourly,236,38,35
-47,8,151,6,TESLA,4cp_daily,212,55,53
-31,7,194,4,TESLA,4cp_hourly,236,38,35
+17,7,59,23,ECA,4cp_daily,106,24,40
+7,5,85,21,ECA,4cp_hourly,118,12,28
+33,9,57,7,RTO,4cp_daily,106,42,40
+21,4,86,7,RTO,4cp_hourly,118,25,28
+33,9,57,7,TESLA,4cp_daily,106,42,40
+21,4,86,7,TESLA,4cp_hourly,118,25,28
