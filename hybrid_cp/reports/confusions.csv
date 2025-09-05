@@ -1,0 +1,17 @@
+metric,value
+RF@0.5_TP,14
+RF@0.5_FP,2
+RF@0.5_TN,104
+RF@0.5_FN,2
+ET@dyn_TP,15
+ET@dyn_FP,1
+ET@dyn_TN,105
+ET@dyn_FN,1
+HYB_hourly_TP,16
+HYB_hourly_FP,18
+HYB_hourly_TN,88
+HYB_hourly_FN,0
+HYB_daily_TP,16
+HYB_daily_FP,23
+HYB_daily_TN,83
+HYB_daily_FN,0
